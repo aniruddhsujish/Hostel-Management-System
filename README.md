@@ -1,6 +1,14 @@
 # Hostel-Management-System
-A system built for hostel room and mess allocation for our College(NITK Surathkal) as a part of DBMS Course.
+A system built for hostel room and mess allocation and management. Implemented using HTML, JavaScript, PHP and MySql database
 
-For more details regarding the project refer [Documentation](/Documentation.pdf)
+# Features
+ 1. Log in as student or Hostel Manager
+ 2. As student pay fees, apply for rooms / mess
+ 3. As Hostel Manager look at all the room / mess applications and allocate them
+ 4. Vacate Students from a room / mess
+ 5. View a list of all allocated students
 
-<!-- ### For more details regarding the system please refer to SDD, SRS, UserManual of the system in Documentation folder. -->
+
+
+
+
