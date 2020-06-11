@@ -144,7 +144,7 @@ session_start();
 					$sql1 = "CALL SP_branch_year('branch','$man_id');";
 					$result1 = mysqli_query($conn,$sql1);
 					while ($row1 = mysqli_fetch_array($result1)){     
-						echo "<p style='font-size: 20px;'>". $row1[0] . " Year: " . + $row1[1]. " Student(s) " ; 
+						echo "<p style='font-size: 20px;'>". $row1[0] . " Branch: " . + $row1[1]. " Student(s) " ; 
 					}
 					mysqli_next_result($conn);
 

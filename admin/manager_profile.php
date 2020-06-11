@@ -247,5 +247,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	</div>
 	<script type="text/javascript" src="../web_profile/js/smoothbox.jquery2.js"></script>
+	<script type="text/javascript" src="../web_home/js/jquery-2.2.3.min.js"></script>
+	<script type="text/javascript" src="../web_home/js/bootstrap.js"></script> 
 </body>
+
 </html>
